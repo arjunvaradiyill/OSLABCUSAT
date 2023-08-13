@@ -1,4 +1,4 @@
-# OS LAB CUSAT S6
+# OS LAB CUSAT-S6
 
 19-202-0610 OPERATING SYSTEM LABORATORY
 Course Outcomes:
@@ -6,7 +6,7 @@ On completion of this course the student will be able to:
 1. Develop shell scripts.      
 2. Implement scheduling algorithms.
 3. Write programs using system calls.
-4. Write programs to implement inter process communication.
+4. Write programs to implement inter-process communication.
 5. Write system level programs
 
 Cycle-I
